@@ -1,1 +1,3 @@
-echo "This is the User Input Value for EnvironmentName parameter :$EnvironmentName"
+echo "BUILD_NUMBER" :: $BUILD_NUMBER
+echo "BUILD_ID" :: $BUILD_ID
+echo "BUILD_DISPLAY_NAME" ::$BUILD_DISPLAY_NAME
